@@ -1,5 +1,5 @@
 {
-  "name": "phyllotaxis",
+  "name": "pie",
   "version": "1.0.0",
   "description": "coding challenge",
   "main": "app.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "Robbuss/sk/phyllotaxis"
+    "url": "Robbuss/sk/pie"
   },
   "author": "me",
   "license": "ISC"
